@@ -1,7 +1,5 @@
 ![Header](./github-header-image.png)
 ## Hi there 👋
-[![MasterHead](github-header-image)]([your GitHub link](https://github.com/Abdelwahab-Ayman))
-**Abdelwahab-Ayman/Abdelwahab-Ayman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
