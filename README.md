@@ -1,10 +1,44 @@
-![Header](./github-header-image.png)
-## Hi there 👋
+### Hey 👋, I'm Abdelwahab Ayman Samy
+
+<a href="https://www.linkedin.com/in/abdelwahab-ayman-samy-/">
+  <img align="left" alt="Mehdi's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.kaggle.com/abdelwahabayman2">
+  <img align="left" alt="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
+<a href="https://www.facebook.com/abdelwahab.ayman.3158/">
+  <img align="left" alt="Mehdi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+
+<br />
+<br />
+
+Hi there, I'm **Abdelwahab Ayman**, a **Computer Science Student**and a **Open Source Passionate** 🚀 from Egypt, currently, I'm a Community Team Member 🙍🏽‍♂️ [@Abdelwahab Ayman](https://github.com/Abdelwahab-Ayman), Kaggler 👨🏽‍💻 [@Kaggle](https://www.kaggle.com/abdelwahabayman2), and an Computer Science intern 👨🏽‍💼. 
+
+  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
+**Talking about Personal Stuffs:**
+
+- 👨🏽‍💻 I’m currently an Computer Science Diploma Student with [Vneuron](https://www.vneuron.com/) working on NLP/NLU projects;
+- 🌱 I’m currently learning Deep Reinforcement Learning; 
+- 🤔 My interests are with Natural Language Processing/Understanding, Computer vision, Reinforcement Learning, etc..;
+- 💼 I’m pursuing a Bachelor's degree in Software Engineering;
+- 💬 Ask me about anything, I am happy to help;
+- 📫 Please email via mabrouki.mehdi25@gmail.com to reach me.
+- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1q_ATZsO9c488VUxj1JuU--ZYe9IEqp4-/view?usp=sharing) to get more info.
 
 
-- 🔭 I’m currently working on Courses To explain C++
-- 🌱 I’m currently learning Software Developent
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with Education Materials
-- 💬 Ask me about Programming
-- 📫 How to reach me: +20 01140490524/+20 01030949116
+**Languages and Tools:**  
+
+<code><img height="20" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
